@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm currently working as a software engineer in Arm Ltd.
-
 <!--
 **lpy4105/lpy4105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
